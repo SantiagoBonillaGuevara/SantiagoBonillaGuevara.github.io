@@ -1,5 +1,5 @@
 export const SITE = {
-  URL: "https://your_site.com",
+  URL: "https://SantiagoBonillaGuevara.github.io",
   TITLE: "Mono Lume",
   DESCRIPTION:
     "A full-stack developer with a strong focus on building fast, accessible, and maintainable web applications.",
@@ -35,6 +35,6 @@ export const SOCIALS = [
   },
   {
     NAME: "Github",
-    HREF: "https://github.com/your_username",
+    HREF: "https://github.com/SantiagoBonillaGuevara",
   },
 ];
