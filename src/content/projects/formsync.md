@@ -1,11 +1,11 @@
 ---
-title: "FormSync"
-description: "Serverless forms with instant email notifications, reCAPTCHA, and zero backend. Just drop in a <form>."
+title: "Hand Pose Estimation for Drone Control"
+description: "A computer vision project for gesture-based drone control. Hand landmarks are extracted using MediaPipe and classified with machine learning models in Python to recognize drone commands."
 liveUrl: https://example.com
-githubUrl: https://github.com
+githubUrl: https://github.com/SantiagoBonillaGuevara/Hand-Pose-Estimation-for-Drone-Control
 image: {
-url: "/formsync.webp",
-alt:  "FormSync thumbnail"
+url: "/droneProject.webp",
+alt:  "Hand Pose Estimation for Drone Control thumbnail"
 }
 ---
 
